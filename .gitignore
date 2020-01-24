@@ -10,7 +10,7 @@
 .svn/
 
 # Custom Files
-test.dart
+/demo/
 
 # IntelliJ related
 *.iml
